@@ -2,7 +2,8 @@ import { Navbar } from "./components/Navbar";
 import { HomePage } from "./components/HomePage";
 import AboutMe from "./components/AboutMe";
 import Skills from "./components/Skills";
-import Projects from "./components/Projects";
+import Experience from "./components/Experience";
+import Hobbies from "./components/Hobbies";
 
 function App() {
   return (
@@ -11,7 +12,8 @@ function App() {
       <HomePage />
       <AboutMe />
       <Skills />
-      <Projects />
+      <Experience />
+      <Hobbies />
     </div>
   );
 }
