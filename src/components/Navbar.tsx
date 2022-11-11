@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
-import r_icon from "../assets/r_icon.png";
+import icon_rpr from "../assets/icon_rpr.png";
 import { Link } from "react-scroll";
 
 export const Navbar = () => {
@@ -8,9 +8,9 @@ export const Navbar = () => {
   const handleClick = () => setNav(!nav);
 
   return (
-    <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#edede9] text-gray-700">
+    <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#F5EFE6] text-gray-700">
       <div>
-        <img src={r_icon} alt="Logo" style={{ width: "50px" }} />
+        <img src={icon_rpr} alt="Logo" style={{ width: "50px" }} />
       </div>
 
       <ul className="hidden md:flex ">
@@ -27,11 +27,6 @@ export const Navbar = () => {
         <li>
           <Link to="skills" smooth={true} duration={500}>
             Skills
-          </Link>
-        </li>
-        <li>
-          <Link to="projects" smooth={true} duration={500}>
-            Projects
           </Link>
         </li>
         <li>
@@ -75,11 +70,16 @@ export const Navbar = () => {
         <li className="py-6 text-4xl">
           <Link
             onClick={handleClick}
-            to="projects"
+            to="experience"
             smooth={true}
             duration={500}
           >
-            Projects
+            Experience
+          </Link>
+        </li>
+        <li className="py-6 text-4xl">
+          <Link onClick={handleClick} to="hobbies" smooth={true} duration={500}>
+          Hobbies
           </Link>
         </li>
       </ul>
