@@ -36,7 +36,7 @@ const Experience = () => {
                   children
                 </p>
                 <li className="font-bold pt-4">
-                  The army (JUL 2018 - JUL 2019)
+                  The Norwegian army (JUL 2018 - JUL 2019)
                 </li>
                 <p>
                   - Served firs service in the army <br />- Trustee in the squad
@@ -55,7 +55,7 @@ const Experience = () => {
             <p className="text-sm text-left pl-4 ;">
               <ul>
                 <li className="font-bold pt-4">
-                  Subjects and courses committee, Line association Online (AUG
+                  Subjects and courses committee, Student association Online (AUG
                   2020 - d.d)
                 </li>
                 <p>
@@ -63,7 +63,7 @@ const Experience = () => {
                   and conducting courses
                 </p>
                 <li className="font-bold pt-4">
-                  The It excursion committee, Line association Online (FEB 2022
+                  The IT Excursion Committee (ITEX), Student association Online (FEB 2022
                   - SEP 2022)
                 </li>
                 <p>

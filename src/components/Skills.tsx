@@ -19,7 +19,7 @@ const Skills = () => {
               src={Developing}
               alt="Developing icon"
             />
-            <p className="my-4 font-semibold">Courses <br/> (The most relevant one)</p>
+            <p className="my-4 font-semibold">Courses <br/> (The most relevant ones)</p>
             <p className="my-4">
             Web Technologies (IT2805) <br/>
             Information Technology (TDT4109) <br/>
@@ -40,16 +40,17 @@ const Skills = () => {
             <img className="w-10 mx-auto" src={Design} alt="Design icon" />
             <p className="my-4 font-semibold">Experience with </p>
             <p className="my-4 text-center">
+            I have experience with Git, Agile development methodologys and a various programming languages and frameworks like:<br />
+          <li> django </li>
+          <li> Python </li>
+          <li> java </li>
+          <li> React </li>
+          <li> Tailwind </li>
+          <li> Javascript </li>
+          <li> Typescript </li>
           <li> HTML </li>
           <li> CSS </li>
-          <li> Javascript </li>
-          <li> Python </li>
-          <li> Java </li>
-          <li> Git </li>
-          <li> Scrum </li>
-          <li> React </li>
-          <li> Typescript </li>
-          <li> Tailwind </li>
+          <li> SQL </li>
             </p>
           </div>
 

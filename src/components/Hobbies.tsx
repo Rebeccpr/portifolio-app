@@ -23,14 +23,14 @@ const Hobbies = () => {
             </p>{" "}
             <br />
             <p className="font-bold"> Fotball </p>- I have always played soccer
-            and think this is the best sport out there
+            and think this is the best sport out there.
             <p className="font-bold"> Horseback riding</p>- One of the most
             enjoyable activities is horseback riding, which I try to do
             frequently.
             <p className="font-bold"> Climbing </p>- Climbing is something I
             started doing while I was a student and it's a lot of fun because I
             enjoy physical activity.
-            <p className="font-bold"> Cooking </p>- I've always like to cook,
+            <p className="font-bold"> Cooking </p>- I've always liked to cook,
             and getting to test out new foods is enjoyable and intriguing.
             <p className="font-bold"> Other things </p>
             - I am also very fond of going for walks and outdoor activities.{" "}
