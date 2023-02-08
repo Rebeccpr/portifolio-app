@@ -32,6 +32,8 @@ const Skills = () => {
             Software Engineering (TDT4140) <br/>
             Information Systems (TDT4175) <br/>
             Web Development (IT2810) <br/>
+            Software Security and Data Privacy (TDT4237) <br/>
+            Informatics Project II (IT2901) <br/>
             </p>
            
           </div>
@@ -45,6 +47,7 @@ const Skills = () => {
           <li> Python </li>
           <li> java </li>
           <li> React </li>
+          <li> Svelte </li>
           <li> Tailwind </li>
           <li> Javascript </li>
           <li> Typescript </li>
