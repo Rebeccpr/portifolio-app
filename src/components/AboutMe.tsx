@@ -18,7 +18,7 @@ const AboutMe = () => {
             <div className="pb-8 pl-4 py-4 max-w-[1000px] sm:text-left text-sm">
               <p>I am currently studying my 3rd year informatics at NTNU Trondheim. </p>
               <p>
-                <b>Linkedin: </b> <a href={'https://www.linkedin.com/in/rebecca-ruud-585975222/'}>Rebecca Ruud</a>
+                <b>Linkedin: </b> <a className="hover:font-bold" href={'https://www.linkedin.com/in/rebecca-ruud-585975222/'}>Rebecca Ruud</a>
               </p>
               <p>
                 <b>E-mail: </b> rebeccaruuud@gmail.com
@@ -37,7 +37,7 @@ const AboutMe = () => {
                   <p className="font-bold ">
                     The Norwegian University of Science and Technology (NTNU)
                   </p>
-                  Bachelor's degree in informatics | 2020 - 2023
+                  <a className="hover:font-bold" href={'https://www.ntnu.no/studier/bit'}>Bachelor's degree in informatics | 2020 - 2023</a>
                 </p>
                 <p className="font-bold">
                   {" "}

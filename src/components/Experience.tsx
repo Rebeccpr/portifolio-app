@@ -55,7 +55,7 @@ const Experience = () => {
             <p className="text-sm text-left pl-4 ;">
               <ul>
                 <li className="font-bold pt-4">
-                  Subjects and courses committee, Student association Online (AUG
+                  Academic committee, Student association Online (AUG
                   2020 - d.d)
                 </li>
                 <p>

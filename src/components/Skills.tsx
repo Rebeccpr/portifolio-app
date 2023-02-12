@@ -21,19 +21,19 @@ const Skills = () => {
             />
             <p className="my-4 font-semibold">Courses <br/> (The most relevant ones)</p>
             <p className="my-4">
-            Web Technologies (IT2805) <br/>
-            Information Technology (TDT4109) <br/>
-            Object-Oriented Programming (TDT4100) <br/>
-            Human–Computer Interaction (TDT4180) <br/>
-            Security and robustness in ICT systems (TTM4185) <br/>
-            Algorithms and Data Structures (TDT4120) <br/>
-            Informatics, Project I (IT1901) <br/>
-            Data Modelling, Databases and Database Management Systems (TDT4145) <br/>
-            Software Engineering (TDT4140) <br/>
-            Information Systems (TDT4175) <br/>
-            Web Development (IT2810) <br/>
-            Software Security and Data Privacy (TDT4237) <br/>
-            Informatics Project II (IT2901) <br/>
+            <a className="hover:font-bold" href={'https://www.ntnu.edu/studies/courses/IT2805/2019/1#tab=omEmnet'}>Web Technologies (IT2805)</a> <br/>
+            <a className="hover:font-bold" href={'https://www.ntnu.edu/studies/courses/TDT4109#tab=omEmnet'}>Information Technology (TDT4109)</a> <br/>
+            <a className="hover:font-bold" href={'https://www.ntnu.edu/studies/courses/TDT4100#tab=omEmnet'}>Object-Oriented Programming (TDT4100)</a> <br/> 
+            <a className="hover:font-bold" href={'https://www.ntnu.edu/studies/courses/TDT4180#tab=omEmnet'}>Human-Computer Interaction (TDT4180)</a> <br/> 
+            <a className="hover:font-bold" href={'https://www.ntnu.edu/studies/courses/TTM4185#tab=omEmnet'}>Security and robustness in ICT systems (TTM4185)</a> <br/> 
+            <a className="hover:font-bold" href={'https://www.ntnu.edu/studies/courses/TDT4120#tab=omEmnet'}>Algorithms and Data Structures (TDT4120)</a> <br/> 
+            <a className="hover:font-bold" href={'https://www.ntnu.edu/studies/courses/IT1901#tab=omEmnet'}>Informatics, Project I (IT1901)</a> <br/>
+            <a className="hover:font-bold" href={'https://www.ntnu.edu/studies/courses/TDT4145#tab=omEmnet'}>Data Modelling, Databases and Database Management Systems (TDT4145)</a> <br/>
+            <a className="hover:font-bold" href={'https://www.ntnu.edu/studies/courses/TDT4140#tab=omEmnet'}>Software Engineering (TDT4140)</a> <br/>
+            <a className="hover:font-bold" href={'https://www.ntnu.edu/studies/courses/TDT4175#tab=omEmnet'}>Information Systems (TDT4175)</a> <br/>
+            <a className="hover:font-bold" href={'https://www.ntnu.edu/studies/courses/IT2810#tab=omEmnet'}>Web Development (IT2810)</a> <br/>
+            <a className="hover:font-bold" href={'https://www.ntnu.edu/studies/courses/TDT4237/#tab=omEmnet'}>Software Security and Data Privacy (TDT4237)</a> <br/>
+            <a className="hover:font-bold" href={'https://www.ntnu.edu/studies/courses/IT2901#tab=omEmnet'}>Informatics Project II (IT2901)</a> <br/>
             </p>
            
           </div>
@@ -43,17 +43,17 @@ const Skills = () => {
             <p className="my-4 font-semibold">Experience with </p>
             <p className="my-4 text-center">
             I have experience with Git, Agile development methodologys and a various programming languages and frameworks like:<br />
-          <li> django </li>
-          <li> Python </li>
-          <li> java </li>
-          <li> React </li>
-          <li> Svelte </li>
-          <li> Tailwind </li>
-          <li> Javascript </li>
-          <li> Typescript </li>
-          <li> HTML </li>
-          <li> CSS </li>
-          <li> SQL </li>
+           django <br/>
+          Python <br/>
+          java <br/>
+          React <br/>
+          Svelte <br/>
+          Tailwind <br/>
+          Javascript <br/>
+          Typescript <br/>
+          HTML <br/>
+          CSS <br/>
+          SQL <br/>
             </p>
           </div>
 
@@ -64,10 +64,6 @@ const Skills = () => {
   );
 };
 
+
+
 export default Skills;
-
-//Programmeringsspråk
-//Andre skills (Presentation) (kan klikke seg inn på bilder av foredrag og arbeid jeg har gjort)
-//Design
-
-//Arrangering
