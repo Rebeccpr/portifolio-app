@@ -15,34 +15,43 @@ const Experience = () => {
             <p className="text-sm text-left pl-4 ;">
               <ul className="pt-4">
                 <li className="font-bold">
-                  Teaching assistant, Excitet NTNU (AUG 2021 - d.d)
+                  Developer, Norsk Tipping (Jun 2023 - Present)
+                </li>
+                <p>
+                  - Part-time developer, primarily focused on frontend development <br/>
+                  - Gained experience across different areas of development <br/>
+                  - Enhanced skills in teamwork, communication, and problem-solving <br/>
+                  - Worked closely with cross-functional teams to deliver high-quality projects
+                </p>
+                <li className="font-bold">
+                  Teaching assistant, Excitet NTNU (AUG 2021 - JUN 2023)
                 </li>
                 <p>
                   - Teaching assistant at Centre of Excellent IT Education{" "}
-                  <br />
+                  <br/>
                   - Assists first-year students in all subjects as a student
-                  assistant <br />
-                  - Various projects within recruitment, motivation etc. <br />
+                  assistant <br/>
+                  - Various projects within recruitment, motivation etc. <br/>
                   - Project coordinator for the group Academic research
                   assistance
-                  <br />
+                  <br/>
                 </p>
                 <li className="font-bold pt-4">
-                  Marihøna farm and outdoor kindergarten (APR 2020 - d.d)
+                  Marihøna farm and outdoor kindergarten (APR 2020 - JUN 2023)
                 </li>
                 <p>
                   - Plan and carry out games and activities, both indoors and
-                  outdoors <br />- Responsibility and interaction with the
+                  outdoors <br/>- Responsibility and interaction with the
                   children
                 </p>
                 <li className="font-bold pt-4">
                   The Norwegian army (JUL 2018 - JUL 2019)
                 </li>
                 <p>
-                  - Served firs service in the army <br />- Trustee in the squad
+                  - Served firs service in the army <br/>- Trustee in the squad
                 </p>
                 <li className="font-bold pt-4">
-                  Heartbreake managment, Modeling agency (2015 - d.d)
+                  Heartbreake managment, Modeling agency (2015 - Present)
                 </li>
                 <p>- Modeling for different brands</p>
               </ul>
@@ -59,7 +68,7 @@ const Experience = () => {
                   2020 - d.d)
                 </li>
                 <p>
-                  - Responsibility for Online's booking round <br />- Arranging
+                  - Responsibility for Online's booking round <br/>- Arranging
                   and conducting courses
                 </p>
                 <li className="font-bold pt-4">

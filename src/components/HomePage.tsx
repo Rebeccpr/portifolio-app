@@ -19,7 +19,7 @@ export const HomePage = () => {
         <div>
           <Link to="about">
             <button className="text-gray-700 group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#989cab] hover:border-[#989cab] hover:text-white">
-              View Work
+              Read more about me
               <span className="group-hover:rotate-90 duration-300">
                 <HiArrowNarrowRight className="ml-3" />
               </span>
